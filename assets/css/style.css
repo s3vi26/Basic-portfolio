@@ -1,0 +1,33 @@
+
+
+body {
+    background-image: url("../images/background.png");
+    background-repeat: repeat;
+    background-color: #cccccc;
+
+
+}
+header {
+    background-color:#ffffff;
+    border-bottom-color: #cccccc;
+
+}
+.name {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+
+
+}
+nav {
+    text-align: right;
+    
+}
+
+.about {
+    background-image: url("assets/images/background.png");
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+    
+
+}
